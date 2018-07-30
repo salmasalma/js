@@ -1,0 +1,16 @@
+#b,#i,#u, select, option {display: inline-block  ;
+    background-color: #3498DB;
+    color: white;
+    padding: 16px;
+    font-size: 16px;
+    border: none;
+    cursor: pointer;
+    width: 15%
+}
+#tir {font-family: Arial, Helvetica, sans-serif; 
+    background-color:#3498DB;
+     font-size: 0.7cm;
+    color: white;
+    padding: 1cm}
+#txt { background-color: rgb(240, 240, 240);
+padding: 1cm}
